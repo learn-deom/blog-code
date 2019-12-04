@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95086a01-752d-4b6e-93d5-492a979c2584" name="Default" comment="" />
+    <list default="true" id="95086a01-752d-4b6e-93d5-492a979c2584" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/blog/_posts/images/webstorm2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/_posts/images/webstorm3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/_posts/images/webstorm4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/_posts/2018-11-7-frontmatter-in-vuepress.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_posts/webstorm自动部署到远程服务器.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,6 +37,35 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="webstorm自动部署到远程服务器.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/_posts/webstorm自动部署到远程服务器.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="345">
+                <caret line="28" selection-start-line="28" selection-end-line="29" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-11-17-ngnix安装与代码发布.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/_posts/2019-11-17-ngnix安装与代码发布.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="175">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="index.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/.vuepress/styles/index.styl">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="palette.styl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="palette.styl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/.vuepress/styles/palette.styl">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="409">
@@ -85,6 +119,8 @@
         <option value="$PROJECT_DIR$/blog/.vuepress/styles/global.styl" />
         <option value="$PROJECT_DIR$/blog/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/blog/.vuepress/styles/palette.styl" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/blog/_posts/webstorm自动部署到远程服务器.md" />
       </list>
     </option>
   </component>
@@ -108,7 +144,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="395" />
     <option name="y" value="141" />
     <option name="width" value="1406" />
@@ -152,6 +188,13 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,14 +211,14 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\SeniorEngineer\blog\blog\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\SeniorEngineer\blog\blog\_posts" />
       <recent name="G:\SeniorEngineer\blog\blog\_posts\images" />
+      <recent name="G:\SeniorEngineer\blog\blog\_posts" />
       <recent name="G:\SeniorEngineer\blog\blog\.vuepress\theme" />
       <recent name="G:\SeniorEngineer\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\SeniorEngineer\blog\blog\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13323000" />
+    <option name="totallyTimeSpent" value="15446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -219,6 +262,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32824427" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -232,7 +276,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,14 +439,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/_posts/2019-11-17-linux上的nginx安装与代码发布.md" />
-    <entry file="file://$PROJECT_DIR$/blog/_posts/2018-11-7-frontmatter-in-vuepress.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2751" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/_posts/2019-5-6-writing-a-vuepress-theme.md" />
     <entry file="file://$PROJECT_DIR$/blog/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -413,35 +448,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/_posts/2019-5-6-writing-a-vuepress-theme-2.md" />
     <entry file="file://$PROJECT_DIR$/blog/_posts/2019-5-6-writing-a-vuepress-theme-4.md" />
-    <entry file="file://$PROJECT_DIR$/blog/_posts/2019-11-17-ngnix安装与代码发布.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-133">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/.vuepress/styles/index.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -468,6 +476,49 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/_posts/2019-11-17-ngnix安装与代码发布.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="175">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/_posts/images/webstorm2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/_posts/webstorm自动部署到远程服务器.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="28" selection-start-line="28" selection-end-line="29" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
