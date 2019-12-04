@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d823a8ac-3e68-44b1-bb28-844e50b29adb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/css/0.styles.3512b267.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/1.c3b636ae.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/10.7caa6336.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/11.85cfd896.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/12.2ce7151a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/13.7b5b0f91.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/14.d53f2351.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/15.8270c764.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/16.b10c43f7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/17.2a5184be.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/18.dfaa76ce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/19.051c0c35.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/20.17b6b56b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/21.dce6d899.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/22.60ad6d21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/23.f7d26347.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/24.5698dc5a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/25.140d13ba.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/26.9c1471e7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/4.cc84b254.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/5.e6e22d9d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/6.48637d2c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/7.4ac1accd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/8.1e962a01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/9.68b27080.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/app.afb2e122.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vuepress/dist/assets/js/vuejs-paginate.4e9af066.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2018/11/07/frontmatter-in-vuepress-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2018/11/07/frontmatter-in-vuepress-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2018/11/07/frontmatter-in-vuepress-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2018/11/07/frontmatter-in-vuepress-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2018/11/07/frontmatter-in-vuepress/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2018/11/07/frontmatter-in-vuepress/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot-4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/02/26/markdown-slot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/2019/05/06/writing-a-vuepress-theme-4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/frontmatter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/frontmatter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/markdown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/theme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/vuepress/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/vuepress/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/vuepress/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/vuepress/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vuepress/dist/tag/vuepress/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/dist/tag/vuepress/page/3/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.vuepress/dist" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="395" />
+    <option name="y" value="141" />
+    <option name="width" value="1406" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d823a8ac-3e68-44b1-bb28-844e50b29adb" name="Default" comment="" />
+      <created>1573909999678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573909999678</updated>
+      <workItem from="1573910000750" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
